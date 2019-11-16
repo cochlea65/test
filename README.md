@@ -1,2 +1,2 @@
 # test
-nur ein test zum Üben mit Github
+nur ein Test zum Üben mit Github
